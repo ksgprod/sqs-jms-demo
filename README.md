@@ -19,7 +19,7 @@ services:
       - SERVICES=sqs
 ```
 
-<h3>Install and configure AWS CLI on your machine:</h3>
+<h3>Instale e configure o AWS CLI na sua máquina:</h3>
 
 - [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-install.html) AWS Command Line Interface
 
